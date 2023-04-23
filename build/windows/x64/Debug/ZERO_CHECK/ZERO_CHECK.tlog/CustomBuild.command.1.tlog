@@ -1,0 +1,10 @@
+^C:\USERS\DELL\ONEDRIVE\DOCUMENTS\COLLEGE PROJECT\FULL FILE\PLANT DISEASE DETECTION FLUTTER\BUILD\WINDOWS\CMAKEFILES\4CEABB692916B5252B18105E7CA03272\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Dell/OneDrive/Documents/College project/full file/Plant Disease Detection Flutter/windows" "-BC:/Users/Dell/OneDrive/Documents/College project/full file/Plant Disease Detection Flutter/build/windows" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Dell/OneDrive/Documents/College project/full file/Plant Disease Detection Flutter/build/windows/plant_disease_detector.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+C:/Users/Dell/OneDrive/Documents/College project/full file/Plant Disease Detection Flutter/build/windows/CMakeFiles/INSTALL.dir
+C:/Users/Dell/OneDrive/Documents/College project/full file/Plant Disease Detection Flutter/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Users/Dell/OneDrive/Documents/College project/full file/Plant Disease Detection Flutter/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Dell/OneDrive/Documents/College project/full file/Plant Disease Detection Flutter/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/Dell/OneDrive/Documents/College project/full file/Plant Disease Detection Flutter/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/Dell/OneDrive/Documents/College project/full file/Plant Disease Detection Flutter/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/Dell/OneDrive/Documents/College project/full file/Plant Disease Detection Flutter/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Users/Dell/OneDrive/Documents/College project/full file/Plant Disease Detection Flutter/build/windows/runner/CMakeFiles/plant_disease_detector.dir
+C:/Users/Dell/OneDrive/Documents/College project/full file/Plant Disease Detection Flutter/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Users/Dell/OneDrive/Documents/College project/full file/Plant Disease Detection Flutter/build/windows/runner/CMakeFiles/ALL_BUILD.dir
