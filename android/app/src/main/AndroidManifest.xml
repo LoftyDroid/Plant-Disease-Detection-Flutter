@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"   
-    package="Plant Disease Detector"> // change your package name here
+    package="Plant Disease Detection"> // change your package name here
     
    <application
         tools:replace="android:label"
